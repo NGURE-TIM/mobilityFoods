@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662135030245",
+    "project_id": "mobility-foods",
+    "storage_bucket": "mobility-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662135030245:android:f7bbd0da476ef6c5262f0c",
+        "android_client_info": {
+          "package_name": "com.dmobility"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkpCOsVHxah1w08KN_rtgjg6_gDTrO10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
